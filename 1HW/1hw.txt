@@ -1,12 +1,11 @@
 Postman.
-HW_1 
+HW_1
 
 Protocol: http
 IP: 162.55.220.72
 Port: 5005
 
-EP_1 - (1.png)
-
+EP_1
 Method: GET
 EndPoint: /get_method
 request url params: 
@@ -21,8 +20,7 @@ response:
 
 ==================
 
-EP_2 - (2.png)
-
+EP_2
 Method: POST
 EndPoint: /user_info_3
 request form data: 
@@ -39,8 +37,8 @@ response:
 
 
 ==================
-EP_3 - (3.png)
 
+EP_3
 Method: GET
 EndPoint: /object_info_1
 request url params: 
@@ -56,8 +54,8 @@ response:
 
 
 ==================
-EP_4 - (4.png)
 
+EP_4
 Method: GET
 EndPoint: /object_info_2
 request url params: 
@@ -78,8 +76,8 @@ response:
 
 
 ==================
-EP_5 - (5.png)
 
+EP_5
 Method: GET
 EndPoint: /object_info_3
 request url params: 
@@ -101,8 +99,8 @@ response:
 
 
 ==================
-EP_6 - (6.png)
 
+EP_6
 Method: GET
 EndPoint: /object_info_4
 request url params: 
@@ -117,8 +115,8 @@ response:
 
 
 ==================
-EP_7 - (7.png)
 
+EP_7
 Method: POST
 EndPoint: /user_info_2
 request form data: 
@@ -136,4 +134,3 @@ response:
                      'u_age': age,
                      'u_salary_5_years': salary * 4.2}
           }
-         
