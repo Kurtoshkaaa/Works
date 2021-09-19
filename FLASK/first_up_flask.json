@@ -1,0 +1,31 @@
+{
+	"info": {
+		"_postman_id": "5aff60f4-056b-4709-ac8f-8bb083532c8f",
+		"name": "New Collection",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "first_server_up",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://192.168.0.106:5001/email",
+					"protocol": "http",
+					"host": [
+						"192",
+						"168",
+						"0",
+						"106"
+					],
+					"port": "5001",
+					"path": [
+						"email"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
