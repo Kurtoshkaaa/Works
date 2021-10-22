@@ -1,0 +1,50 @@
+308:10-22 18:37:22.120  1728  3918 E InputDispatcher: Window handle Window{30618f3 u0 com.android.todolist/com.android.todolist.MainActivity} has no registered input channel
+309:10-22 18:37:22.128 29092 29092 I Toast   : Show toast from OpPackageName:com.android.todolist, PackageName:com.android.todolist
+313:10-22 18:37:22.135  1728  4453 E InputDispatcher: Window handle Window{30618f3 u0 com.android.todolist/com.android.todolist.MainActivity} has no registered input channel
+524:10-22 18:37:32.125  1728  3918 W NotificationService: Toast already killed. pkg=com.android.todolist callback=android.app.ITransientNotification$Stub$Proxy@348b128
+1207:10-22 18:38:03.899  9717  9717 I AndroidIME: AbstractIme.onActivate():86 LatinIme.onActivate() : EditorInfo = inputType=Text imeActionName=DONE dump=[inputType=0x61 imeOptions=0x6 privateImeOptions=null actionLabel=null actionId=0 initialSelStart=0 initialSelEnd=0 initialCapsMode=0x0 hintText=Name list label=null packageName=com.android.todolist fieldId=2131230821 fieldName=null extras=null hintLocales=null contentMimeTypes=null ], IncognitoMode = false, DeviceLocked = false
+1272:10-22 18:38:04.058  8327  4807 W koy     : Infinite Data has no result for com.android.todolist [CONTEXT service_id=177 ]
+1273:10-22 18:38:04.058  8327 30145 W koy     : Infinite Data has no result for com.android.todolist [CONTEXT service_id=177 ]
+1282:10-22 18:38:04.088  8327 10707 W koy     : Infinite Data has no result for com.android.todolist [CONTEXT service_id=177 ]
+1283:10-22 18:38:04.090  8327 10707 W koy     : Infinite Data has no result for com.android.todolist [CONTEXT service_id=177 ]
+1331:10-22 18:38:06.793  1728  3616 E InputDispatcher: Window handle Window{f53e707 u0 com.android.todolist/com.android.todolist.MainActivity} has no registered input channel
+1420:10-22 18:38:08.501 29092 29154 W RenderInspector: DequeueBuffer time out on com.android.todolist/com.android.todolist.MainActivity, count=3, avg=17 ms, max=18 ms.
+3099:10-22 18:39:07.866  5667  5952 D PowerCheckerService: foreground, uid = 10355, app = com.android.todolist
+3594:10-22 18:39:11.462  5667  5952 D PowerCheckerService: foreground, uid = 10355, app = com.android.todolist
+4682:10-22 18:39:12.735  2445  2445 D RecentsImpl: mActivityStateObserver com.android.todolist.MainActivity
+4906:10-22 18:39:13.050  1728  1884 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{f2117dc u0 com.android.todolist/.MainActivity t914} time:281562835
+5065:10-22 18:39:15.432  8327  8624 W koy     : Infinite Data has no result for com.android.todolist [CONTEXT service_id=177 ]
+5068:10-22 18:39:15.436  9717  9717 I AndroidIME: AbstractIme.onActivate():86 LatinIme.onActivate() : EditorInfo = inputType=Text imeActionName=DONE dump=[inputType=0x61 imeOptions=0x6 privateImeOptions=null actionLabel=null actionId=0 initialSelStart=0 initialSelEnd=0 initialCapsMode=0x0 hintText=Name list label=null packageName=com.android.todolist fieldId=2131230821 fieldName=null extras=null hintLocales=null contentMimeTypes=null ], IncognitoMode = false, DeviceLocked = false
+5082:10-22 18:39:15.441  8327  4808 W koy     : Infinite Data has no result for com.android.todolist [CONTEXT service_id=177 ]
+5104:10-22 18:39:15.456  8327 10708 W koy     : Infinite Data has no result for com.android.todolist [CONTEXT service_id=177 ]
+5106:10-22 18:39:15.458  8327 10708 W koy     : Infinite Data has no result for com.android.todolist [CONTEXT service_id=177 ]
+5159:10-22 18:39:17.339  1728  4998 E InputDispatcher: Window handle Window{dab27fa u0 com.android.todolist/com.android.todolist.MainActivity} has no registered input channel
+5448:10-22 18:39:26.109  1728  4453 I ActivityTaskManager: START u0 {cmp=com.android.todolist/.ListActivity (has extras)} from uid 10355
+5454:10-22 18:39:26.134 29092 29092 I Toast   : Show toast from OpPackageName:com.android.todolist, PackageName:com.android.todolist
+5455:10-22 18:39:26.138  1728  4453 I ActivityTaskManager: The Process com.android.todolist Already Exists in BG. So sending its PID: 29092
+5493:10-22 18:39:26.227  2445  2445 D RecentsImpl: mActivityStateObserver com.android.todolist.ListActivity
+5506:10-22 18:39:26.271  1728  1897 I ActivityTaskManager: Displayed com.android.todolist/.ListActivity: +159ms
+5514:10-22 18:39:26.766  1728  1884 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{17226dc u0 com.android.todolist/.ListActivity t914} time:281576552
+5533:10-22 18:39:27.677  1728  4998 I ActivityTaskManager: START u0 {cmp=com.android.todolist/.MainActivity} from uid 10355
+5539:10-22 18:39:27.699  1728  2656 I ActivityTaskManager: The Process com.android.todolist Already Exists in BG. So sending its PID: 29092
+5545:10-22 18:39:27.751  2445  2445 D RecentsImpl: mActivityStateObserver com.android.todolist.MainActivity
+5561:10-22 18:39:27.816  1728  1897 I ActivityTaskManager: Displayed com.android.todolist/.MainActivity: +136ms
+5598:10-22 18:39:28.302  1728  1884 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{942433c u0 com.android.todolist/.MainActivity t914} time:281578088
+5703:10-22 18:39:31.736  1728  2656 I ActivityTaskManager: START u0 {cmp=com.android.todolist/.Info} from uid 10355
+5709:10-22 18:39:31.758  1728  4453 I ActivityTaskManager: The Process com.android.todolist Already Exists in BG. So sending its PID: 29092
+5715:10-22 18:39:31.809  2445  2445 D RecentsImpl: mActivityStateObserver com.android.todolist.Info
+5728:10-22 18:39:31.852  1728  1897 I ActivityTaskManager: Displayed com.android.todolist/.Info: +113ms
+5768:10-22 18:39:32.346  1728  1884 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{856557a u0 com.android.todolist/.Info t914} time:281582132
+5781:10-22 18:39:33.113  2445  2445 D RecentsImpl: mActivityStateObserver com.android.todolist.MainActivity
+5798:10-22 18:39:33.644  1728  1884 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{942433c u0 com.android.todolist/.MainActivity t914} time:281583430
+5859:10-22 18:39:36.126  1728  4998 W NotificationService: Toast already killed. pkg=com.android.todolist callback=android.app.ITransientNotification$Stub$Proxy@475d2e7
+5922:10-22 18:39:37.323  9717  9717 I AndroidIME: AbstractIme.onActivate():86 LatinIme.onActivate() : EditorInfo = inputType=Text imeActionName=DONE dump=[inputType=0x61 imeOptions=0x6 privateImeOptions=null actionLabel=null actionId=0 initialSelStart=0 initialSelEnd=0 initialCapsMode=0x0 hintText=Name list label=null packageName=com.android.todolist fieldId=2131230821 fieldName=null extras=null hintLocales=null contentMimeTypes=null ], IncognitoMode = false, DeviceLocked = false
+5939:10-22 18:39:37.330  8327 30145 W koy     : Infinite Data has no result for com.android.todolist [CONTEXT service_id=177 ]
+5958:10-22 18:39:37.345  8327 10708 W koy     : Infinite Data has no result for com.android.todolist [CONTEXT service_id=177 ]
+6047:10-22 18:39:40.288  1728  2656 E InputDispatcher: Window handle Window{f2e667e u0 com.android.todolist/com.android.todolist.MainActivity} has no registered input channel
+7693:10-22 18:40:41.381  5667  5952 D PowerCheckerService: foreground, uid = 10355, app = com.android.todolist
+10687:10-22 18:42:55.198  5667  5952 D PowerCheckerService: foreground, uid = 10355, app = com.android.todolist
+11584:10-22 18:42:56.254  2445  2445 D RecentsImpl: mActivityStateObserver com.android.todolist.MainActivity
+11846:10-22 18:42:56.570  1728  1884 I Timeline: Timeline: Activity_windows_visible id: ActivityRecord{942433c u0 com.android.todolist/.MainActivity t914} time:281786356
+12014:10-22 18:43:00.512  9717  9717 I AndroidIME: AbstractIme.onActivate():86 LatinIme.onActivate() : EditorInfo = inputType=Text imeActionName=DONE dump=[inputType=0x61 imeOptions=0x6 privateImeOptions=null actionLabel=null actionId=0 initialSelStart=0 initialSelEnd=0 initialCapsMode=0x0 hintText=Name list label=null packageName=com.android.todolist fieldId=2131230821 fieldName=null extras=null hintLocales=null contentMimeTypes=null ], IncognitoMode = false, DeviceLocked = false
+12043:10-22 18:43:00.532  8327  4808 W koy     : Infinite Data has no r

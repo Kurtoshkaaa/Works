@@ -1,0 +1,34 @@
+ ADB
+ 
+ 
+ 
+ 1. Отобразить подключённый девайс в консоли.
+ 
+ adb devices -l
+ 
+ 2. Вывести адрес приложения todolist в системе Android
+ 
+ C:\adb>adb shell pm list packages | findstr todolist
+ 
+ 3. Установить .apk файл приложениия todolist на телефон с компьютера через  ADB
+ 
+ C:\adb>adb install D:\LESHA\COURSES\app\001_ToDoList-master\app\build\outputs\apk\debug\app-debug.apk
+ 
+ 
+ 4. Сделать скриншот запущенного приложения todolist и сразу скопировать на компьютер в одной команде.
+ 
+ C:\adb>adb shell screencap /sdcard/Kurtoshka.png & pull /sdcard/Kurtoshka.png C:\adb 
+ /sdcard/Kurtoshka.png: 1 file pulled, 0 skipped. 8.8 MB/s (45024 bytes in 0.005s)
+
+ 5. Вывести в консоль логи приложения todolist
+ 
+ C:\adb>adb logcat | findstr "todolist"
+ 
+ 6. Скопировать логи приложения todolist на компьютер.
+ 
+ C:\adb>adb logcat | findstr -rnw "todolist" > C:\adb\todolist.log
+ 
+ 7. Удалить приложение todolist с телефона через ADB
+ 
+ C:\adb>adb uninstall com.android.todolist
+ 
